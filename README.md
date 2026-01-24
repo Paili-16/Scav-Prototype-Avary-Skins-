@@ -1,7 +1,13 @@
 The System file assets Noter.
 
-The Player Skins (Avary): Avali, White color front skins, Black blue color back skins, Bright Blue color stripes skins.
+The Player Skins (Avary): Avali, White color front skins, Black blue color back skins, Bright Blue color stripes skins and have sprites folder can also see how is png images was.
 
 <img width="480" height="540" alt="Avary (Avali)" src="https://github.com/user-attachments/assets/5294f3d5-a253-401c-9fa8-4fd72ea06be7" />
 
-Locked, There is have reason, Only must have find up.
+And also these sprites text for numbers location, Especially these: [float width and height], [TypelessData m_DataSize], [Rectf textureRect: float width and height], [Vector4f uvTransform: float y and w], This will give you some learn for numbers text.
+
+Setting Up for sharedassets1 file
+
+\CasualtiesUnknownDemo\CasualtiesUnknown_Data
+
+Enjoy for Player skins looks special and favorite.
