@@ -359,7 +359,7 @@
    0 float x = 8
    0 float y = 14
    0 float z = 8
-   0 float w = 16
+   0 float w = 14
   0 float downscaleMultiplier = 1
  0 vector m_PhysicsShape
   1 Array Array (1 items)
