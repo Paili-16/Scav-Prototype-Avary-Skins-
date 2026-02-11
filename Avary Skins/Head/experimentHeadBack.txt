@@ -3,8 +3,8 @@
  0 Rectf m_Rect
   0 float x = 0
   0 float y = 0
-  0 float width = 32
-  0 float height = 22
+  0 float width = 34
+  0 float height = 24
  0 Vector2f m_Offset
   0 float x = 0
   0 float y = 0
@@ -35,7 +35,7 @@
  1 SpriteRenderData m_RD
   0 PPtr<Texture2D> texture
    0 int m_FileID = 0
-   0 SInt64 m_PathID = 131
+   0 SInt64 m_PathID = 133
   0 PPtr<Texture2D> alphaTexture
    0 int m_FileID = 0
    0 SInt64 m_PathID = 0
@@ -185,17 +185,17 @@
     [1]
      0 UInt8 data = 0
     [2]
-     0 UInt8 data = 240
+     0 UInt8 data = 0
     [3]
-     0 UInt8 data = 191
+     0 UInt8 data = 192
     [4]
      0 UInt8 data = 0
     [5]
      0 UInt8 data = 0
     [6]
-     0 UInt8 data = 172
+     0 UInt8 data = 0
     [7]
-     0 UInt8 data = 63
+     0 UInt8 data = 64
     [8]
      0 UInt8 data = 0
     [9]
@@ -209,17 +209,17 @@
     [13]
      0 UInt8 data = 0
     [14]
-     0 UInt8 data = 240
+     0 UInt8 data = 0
     [15]
-     0 UInt8 data = 63
+     0 UInt8 data = 64
     [16]
      0 UInt8 data = 0
     [17]
      0 UInt8 data = 0
     [18]
-     0 UInt8 data = 172
+     0 UInt8 data = 0
     [19]
-     0 UInt8 data = 63
+     0 UInt8 data = 64
     [20]
      0 UInt8 data = 0
     [21]
@@ -233,17 +233,17 @@
     [25]
      0 UInt8 data = 0
     [26]
-     0 UInt8 data = 240
+     0 UInt8 data = 0
     [27]
-     0 UInt8 data = 199
+     0 UInt8 data = 192
     [28]
      0 UInt8 data = 0
     [29]
      0 UInt8 data = 0
     [30]
-     0 UInt8 data = 172
+     0 UInt8 data = 0
     [31]
-     0 UInt8 data = 191
+     0 UInt8 data = 192
     [32]
      0 UInt8 data = 0
     [33]
@@ -257,17 +257,17 @@
     [37]
      0 UInt8 data = 0
     [38]
-     0 UInt8 data = 240
+     0 UInt8 data = 0
     [39]
-     0 UInt8 data = 63
+     0 UInt8 data = 64
     [40]
      0 UInt8 data = 0
     [41]
      0 UInt8 data = 0
     [42]
-     0 UInt8 data = 172
+     0 UInt8 data = 0
     [43]
-     0 UInt8 data = 191
+     0 UInt8 data = 192
     [44]
      0 UInt8 data = 0
     [45]
@@ -346,8 +346,8 @@
   0 Rectf textureRect
    0 float x = 0
    0 float y = 0
-   0 float width = 32
-   0 float height = 22
+   0 float width = 34
+   0 float height = 24
   0 Vector2f textureRectOffset
    0 float x = 0
    0 float y = 0
@@ -357,9 +357,9 @@
   0 unsigned int settingsRaw = 64
   0 Vector4f uvTransform
    0 float x = 8
-   0 float y = 16
+   0 float y = 17
    0 float z = 8
-   0 float w = 11
+   0 float w = 12
   0 float downscaleMultiplier = 1
  0 vector m_PhysicsShape
   1 Array Array (1 items)

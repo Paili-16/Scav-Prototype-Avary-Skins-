@@ -1,10 +1,10 @@
 0 Sprite Base
- 1 string m_Name = "experimentDownArm"
+ 1 string m_Name = "experimentHandF"
  0 Rectf m_Rect
   0 float x = 0
   0 float y = 0
-  0 float width = 28
-  0 float height = 28
+  0 float width = 8
+  0 float height = 6
  0 Vector2f m_Offset
   0 float x = 0
   0 float y = 0
@@ -21,10 +21,10 @@
  1 bool m_IsPolygon = false
  0 pair m_RenderDataKey
   0 GUID first
-   0 unsigned int data[0] = 3146815424
-   0 unsigned int data[1] = 1236232871
-   0 unsigned int data[2] = 1218128018
-   0 unsigned int data[3] = 4052047384
+   0 unsigned int data[0] = 3267717784
+   0 unsigned int data[1] = 1324956625
+   0 unsigned int data[2] = 2384416148
+   0 unsigned int data[3] = 3247427829
   0 SInt64 second = 21300000
  0 vector m_AtlasTags
   1 Array Array (0 items)
@@ -35,7 +35,7 @@
  1 SpriteRenderData m_RD
   0 PPtr<Texture2D> texture
    0 int m_FileID = 0
-   0 SInt64 m_PathID = 23
+   0 SInt64 m_PathID = 150
   0 PPtr<Texture2D> alphaTexture
    0 int m_FileID = 0
    0 SInt64 m_PathID = 0
@@ -187,7 +187,7 @@
     [2]
      0 UInt8 data = 0
     [3]
-     0 UInt8 data = 192
+     0 UInt8 data = 191
     [4]
      0 UInt8 data = 0
     [5]
@@ -195,7 +195,7 @@
     [6]
      0 UInt8 data = 0
     [7]
-     0 UInt8 data = 64
+     0 UInt8 data = 63
     [8]
      0 UInt8 data = 0
     [9]
@@ -211,7 +211,7 @@
     [14]
      0 UInt8 data = 0
     [15]
-     0 UInt8 data = 64
+     0 UInt8 data = 63
     [16]
      0 UInt8 data = 0
     [17]
@@ -219,7 +219,7 @@
     [18]
      0 UInt8 data = 0
     [19]
-     0 UInt8 data = 64
+     0 UInt8 data = 63
     [20]
      0 UInt8 data = 0
     [21]
@@ -235,7 +235,7 @@
     [26]
      0 UInt8 data = 0
     [27]
-     0 UInt8 data = 192
+     0 UInt8 data = 191
     [28]
      0 UInt8 data = 0
     [29]
@@ -243,7 +243,7 @@
     [30]
      0 UInt8 data = 0
     [31]
-     0 UInt8 data = 192
+     0 UInt8 data = 191
     [32]
      0 UInt8 data = 0
     [33]
@@ -259,7 +259,7 @@
     [38]
      0 UInt8 data = 0
     [39]
-     0 UInt8 data = 64
+     0 UInt8 data = 63
     [40]
      0 UInt8 data = 0
     [41]
@@ -267,7 +267,7 @@
     [42]
      0 UInt8 data = 0
     [43]
-     0 UInt8 data = 192
+     0 UInt8 data = 191
     [44]
      0 UInt8 data = 0
     [45]
@@ -346,8 +346,8 @@
   0 Rectf textureRect
    0 float x = 0
    0 float y = 0
-   0 float width = 28
-   0 float height = 28
+   0 float width = 8
+   0 float height = 6
   0 Vector2f textureRectOffset
    0 float x = 0
    0 float y = 0
@@ -357,9 +357,9 @@
   0 unsigned int settingsRaw = 64
   0 Vector4f uvTransform
    0 float x = 8
-   0 float y = 14
+   0 float y = 4
    0 float z = 8
-   0 float w = 16
+   0 float w = 3
   0 float downscaleMultiplier = 1
  0 vector m_PhysicsShape
   1 Array Array (1 items)
@@ -370,20 +370,20 @@
       0 int size = 4
       [0]
        0 Vector2f data
-        0 float x = -0.25
-        0 float y = 0.875
+        0 float x = -0.375
+        0 float y = 0.25
       [1]
        0 Vector2f data
-        0 float x = -0.25
-        0 float y = -0.875
+        0 float x = -0.375
+        0 float y = -0.25
       [2]
        0 Vector2f data
-        0 float x = 0.25
-        0 float y = -0.875
+        0 float x = 0.375
+        0 float y = -0.25
       [3]
        0 Vector2f data
-        0 float x = 0.25
-        0 float y = 0.875
+        0 float x = 0.375
+        0 float y = 0.25
  0 vector m_Bones
   1 Array Array (0 items)
    0 int size = 0
