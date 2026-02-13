@@ -4,7 +4,7 @@
   0 float x = 0
   0 float y = 0
   0 float width = 8
-  0 float height = 13
+  0 float height = 15
  0 Vector2f m_Offset
   0 float x = 0
   0 float y = 0
@@ -35,7 +35,7 @@
  1 SpriteRenderData m_RD
   0 PPtr<Texture2D> texture
    0 int m_FileID = 0
-   0 SInt64 m_PathID = 119
+   0 SInt64 m_PathID = 120
   0 PPtr<Texture2D> alphaTexture
    0 int m_FileID = 0
    0 SInt64 m_PathID = 0
